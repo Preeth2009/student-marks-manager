@@ -17,3 +17,6 @@ Concepts Used
 - Problem Solving
 
 This project was created as a beginner Python project for practice.
+
+#Author
+Preetham G
